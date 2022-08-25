@@ -1,4 +1,4 @@
-package com.raja.nav_graph_demo;
+package com.navigation.demo;
 
 import android.content.Context;
 

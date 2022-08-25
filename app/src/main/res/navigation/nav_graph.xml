@@ -7,22 +7,22 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.raja.nav_graph_demo.ui.fragment.HomeFragment"
+        android:name="com.navigation.demo.ui.fragment.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/contactFragment"
-        android:name="com.raja.nav_graph_demo.ui.fragment.ContactFragment"
+        android:name="com.navigation.demo.ui.fragment.ContactFragment"
         android:label="fragment_contact"
         tools:layout="@layout/fragment_contact" />
     <fragment
         android:id="@+id/settingFragment"
-        android:name="com.raja.nav_graph_demo.ui.fragment.SettingFragment"
+        android:name="com.navigation.demo.ui.fragment.SettingFragment"
         android:label="fragment_setting"
         tools:layout="@layout/fragment_setting" />
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.raja.nav_graph_demo.ui.fragment.ProfileFragment"
+        android:name="com.navigation.demo.ui.fragment.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
 </navigation>
